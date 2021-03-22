@@ -22,8 +22,8 @@ main:
     url: /files/CV_Yichen Zhang_full.pdf
 
   - title: "CV(encrypt)"
-    url: /publications/
-    password: 112233
+    url: /talks/ 
+    password: "112233"
     
   #- title: "Guide"
   #  url: /markdown/
