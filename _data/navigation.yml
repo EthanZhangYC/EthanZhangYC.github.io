@@ -20,10 +20,6 @@ main:
     
   - title: "CV(full)"
     url: /files/CV_Yichen Zhang_full.pdf
-
-  - title: "CV(encrypt)"
-    url: /talks/ 
-    password: "112233"
     
   #- title: "Guide"
   #  url: /markdown/
