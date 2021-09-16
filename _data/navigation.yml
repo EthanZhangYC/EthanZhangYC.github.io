@@ -20,6 +20,9 @@ main:
     
   - title: "CV(full)"
     url: /files/CV_Yichen Zhang_full.pdf
+   
+  - title: "Album"
+    url: /album/
     
   #- title: "Guide"
   #  url: /markdown/
